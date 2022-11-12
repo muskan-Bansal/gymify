@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GYMIFY/static/css/main.abd64e84.css",
+    "main.js": "/GYMIFY/static/js/main.68cd4a2d.js",
+    "static/media/banner.png": "/GYMIFY/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/GYMIFY/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/GYMIFY/index.html",
+    "main.abd64e84.css.map": "/GYMIFY/static/css/main.abd64e84.css.map",
+    "main.68cd4a2d.js.map": "/GYMIFY/static/js/main.68cd4a2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.68cd4a2d.js"
+  ]
+}
